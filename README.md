@@ -1,0 +1,1 @@
+# mongo_boot_k8s
